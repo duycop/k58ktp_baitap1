@@ -9,16 +9,26 @@
 4. Web đơn giản,  sử dụng web server là IIS, dùng file hosts để tự tạo domain, gắn domain này vào iis, file index.html có sử dụng html css js để xây dựng giao diện nhập được các input cho bài toán, dùng mã js để tiền xử lý dữ liệu, js để gửi lên backend. backend là api.aspx, trong code của api.aspx.cs thì lấy được các input mà js gửi lên, rồi sử dụng được DLL đa năng trên. kết quả gửi lại json cho client, js phía client sẽ nhận được json này hậu xử lý để thay đổi giao diện theo dữ liệu nhận dược. keyword: c# window web => ASP . NET Web Application (.NET Framework) + tham khảo link chatgpt thầy gửi
 
 ### CÁCH LÀM: ###
-1. trên Github, (tạo tài khoản nếu chưa có), sau đó: Create a new repository, đặt tên repository tuỳ ý, nhớ bật README
+1. trên Github, (tạo tài khoản nếu chưa có), sau đó: Create a new repository, đặt tên repository tuỳ ý, nhớ bật README, nhớ để truy cập PUBLIC
 <img width="1040" height="963" alt="image" src="https://github.com/user-attachments/assets/45b66ccb-d99a-4708-a2b0-7a9e28c98fc1" />
 2. Edit file README trên 1 tab của trình duyệt, đồng thời với việc code trên Visual Studio. khi cần chụp hình ảnh: sử dụng Snipping tool có sẵn của window để chụp, sau đó sang tab README.md để paste hình ảnh vào.
+
 <img width="648" height="324" alt="image" src="https://github.com/user-attachments/assets/c37d0e50-93bc-4c4d-92df-55e8656f785e" />
  
  khi rời máy nhớ Commit changes... để lưu file README lại
+ 
 <img width="442" height="265" alt="image" src="https://github.com/user-attachments/assets/667be689-2b2e-4e72-bf92-3588ddd7636f" />
 
 khi quay lại làm tiếp trên Visual studio thì lại edit file README
+
 <img width="387" height="430" alt="image" src="https://github.com/user-attachments/assets/353c4d07-cc03-4357-8114-e40407a141b1" />
+
+khi chạy từng project trong sulution: nhớ chụp hình và paste kq vào README, chú ý khi paste vào readme thì nó chỉ hiện ra thẻ img như này thôi
+
+<img width="1190" height="811" alt="image" src="https://github.com/user-attachments/assets/7e94c622-d9ae-467f-aed2-1a9252b82faf" />
+
+3. khi xong code như bài tập yêu cầu: upload toàn bộ thư mục chứa code lên github, cùng repository chứa file readme này
+
 
 
 
