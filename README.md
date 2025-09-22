@@ -13,8 +13,13 @@
 <img width="1040" height="963" alt="image" src="https://github.com/user-attachments/assets/45b66ccb-d99a-4708-a2b0-7a9e28c98fc1" />
 2. Edit file README trên 1 tab của trình duyệt, đồng thời với việc code trên Visual Studio. khi cần chụp hình ảnh: sử dụng Snipping tool có sẵn của window để chụp, sau đó sang tab README.md để paste hình ảnh vào.
 <img width="648" height="324" alt="image" src="https://github.com/user-attachments/assets/c37d0e50-93bc-4c4d-92df-55e8656f785e" />
+ 
  khi rời máy nhớ Commit changes... để lưu file README lại
 <img width="442" height="265" alt="image" src="https://github.com/user-attachments/assets/667be689-2b2e-4e72-bf92-3588ddd7636f" />
+
+khi quay lại làm tiếp trên Visual studio thì lại edit file README
+<img width="387" height="430" alt="image" src="https://github.com/user-attachments/assets/353c4d07-cc03-4357-8114-e40407a141b1" />
+
 
 
 
