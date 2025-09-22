@@ -34,7 +34,7 @@ khi chạy từng project trong sulution: nhớ chụp hình và paste kq vào R
 2. KO ĐƯỢC CLONE BÀI BẠN KHÁC VỚI BẤT KỂ LÝ DO GÌ
 3. Thời gian trên github ko fake được, mọi thay đổi đều lưu vết thời gian và nội dung sửa đổi.
 4. deadline: 2025-09-28 (dấu thời gian sau ngày này là dead), cuối kì thầy sẽ tổng hợp link các repository này để chấm điểm.
-6. mọi hình thức vi phạm, chỉ cần 1 lần: đều bị cấm thi, miễn thi lại.
+5. mọi hình thức vi phạm, chỉ cần 1 lần: đều bị cấm thi, miễn thi lại.
 
 
 
